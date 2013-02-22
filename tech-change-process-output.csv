@@ -1,0 +1,12 @@
+province,q3_mostcommon,q4_mostcommon,q5_mostcommon,q6_mostcommon,q7_mostcommon,q8_mostcommon,q9_mostcommon,q10_mostcommon,q11_mostcommon,q12_mostcommon,q3_mostcommon_pct,q4_mostcommon_pct,q5_mostcommon_pct,q6_mostcommon_pct,q7_mostcommon_pct,q8_mostcommon_pct,q9_mostcommon_pct,q10_mostcommon_pct,q11_mostcommon_pct,q12_mostcommon_pct,lat,lon
+Bandundu,School,School,Dissatisfied,School,School,School,School,Daily,Yes,Once a week,46.39,28.87,54.64,53.61,22.68,25.77,38.14,67.01,69.07,31.96,-3.48132881443,17.4677501031
+Bas Congo,School,Health clinic,Dissatisfied,School,Electricity,Electricity,School,Daily,Yes,Never,35.37,28.05,47.56,39.02,24.39,20.73,25.61,74.39,76.83,39.02,-5.14545278049,14.0148630488
+Equateur,School,School,Dissatisfied,School,School,School,School,Daily,Yes,Once a week,50.0,30.65,40.32,56.45,24.19,29.03,43.55,69.35,66.13,38.71,0.801973085484,18.9102008065
+Kasai Occidental,School,School,Dissatisfied,Health clinic,School,Water,School,Less than once a month,Yes,Never,38.46,30.77,69.23,38.46,46.15,38.46,46.15,53.85,53.85,38.46,-5.65814176923,22.0209069231
+Kasai Oriental,School,School,Dissatisfied,School,Electricity,Water,School,Daily,Yes,Never,41.53,22.95,44.26,40.44,26.5,21.31,36.61,64.48,57.65,43.72,-6.09596119126,23.599308306
+Katanga,Roads,Health clinic,Dissatisfied,School,Electricity,Roads,School,Daily,Yes,Never,30.51,24.58,50.0,37.29,33.05,22.03,33.9,61.02,61.86,45.76,-10.5828109068,27.0598244068
+Kinshasa,School,Health clinic,Dissatisfied,School,Electricity,Electricity,School,Daily,Yes,Never,35.16,24.7,49.23,34.48,30.7,25.04,27.1,75.81,61.06,44.43,-4.24010751286,15.5349831389
+Maniema,School,School,Dissatisfied,School,Roads,Roads,School,Daily,Yes,Never,47.22,27.78,44.44,41.67,25.0,33.33,33.33,52.78,61.11,36.11,-3.02238019444,26.0875741667
+Nord Kivu,School,School,Dissatisfied,School,Electricity,Roads,School,Daily,Yes,Never,42.55,25.53,52.13,42.55,26.6,24.47,36.17,74.47,67.02,35.11,0.293241910638,29.4416644681
+Oriental,School,School,Dissatisfied,School,Roads,Roads,School,Daily,Yes,Never,45.7,27.15,46.36,43.71,25.17,29.8,39.74,67.55,61.59,36.42,0.601478754967,25.6043013907
+Sud Kivu,School,Health clinic,Dissatisfied,School,Electricity,Roads,School,Daily,Yes,Never,40.82,28.57,48.98,51.02,22.45,24.49,34.69,65.31,53.06,48.98,-2.97092908163,28.410425102
